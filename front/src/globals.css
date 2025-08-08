@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+@layer utilities {
+  .container-colum {
+    @apply flex flex-col overflow-hidden items-center justify-center text-center rounded-lg border-2;
+  }
+
+  .container-row {
+    @apply flex flex-wrap justify-evenly items-center w-[1300px] rounded-xl;
+  }
+
+}
+
+@layer components {
+  .inputs {
+    @apply mx-8 mb-5;
+  }
+}
+
+body {
+  background: var(--background);
+  background: url('../public/imagenFondoM4.png') no-repeat center center fixed;
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
