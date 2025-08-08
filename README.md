@@ -168,13 +168,13 @@ Para iniciar el front: npm run dev
 
 ### 5.📋 Funcionalidades principales
 
-- 🔐 **Sistema de registro y autenticación**  con validaciones robustas para garantizar la seguridad y correcta gestión de usuarios.
-- 🏠 **Landing Page**  moderna, optimizada para brindar una experiencia de usuario atractiva e intuitiva.
-- 🛍️ **Catálogo de productos**  dinámico con filtrado avanzado por categorías para facilitar la búsqueda y selección.
-- 📊 **Dashboard personalizado**  que muestra el historial detallado de compras y la información relevante del usuario.
-- 🛒 **Carrito de compras persistente**, eliminar productos del carrito, el mismo utiliza `localStorage` para mantener los productos agregados incluso después de cerrar o recargar la página, mostrando el total actualizado en tiempo real.
-- 📄 **Vista detallada de cada producto**,  con descripciones, imágenes y especificaciones completas.
-- 🚫 **Página 404 personalizada** y **protección de rutas privadas**  para asegurar una navegación segura y controlada.
+- 🔐 **Sistema de registro y autenticación**:  con validaciones robustas para garantizar la seguridad y correcta gestión de usuarios.
+- 🏠 **Landing Page**:  moderna, optimizada para brindar una experiencia de usuario atractiva e intuitiva.
+- 🛍️ **Catálogo de productos**:  dinámico con filtrado avanzado por categorías para facilitar la búsqueda y selección.
+- 📊 **Dashboard personalizado**:  que muestra el historial detallado de compras y la información relevante del usuario.
+- 🛒 **Carrito de compras persistente**: eliminar productos del carrito, el mismo utiliza `localStorage` para mantener los productos agregados incluso después de cerrar o recargar la página, mostrando el total actualizado en tiempo real.
+- 📄 **Vista detallada de cada producto**:  con descripciones, imágenes y especificaciones completas.
+- 🚫 **Página 404 personalizada** y **protección de rutas privadas**:  para asegurar una navegación segura y controlada.
 
 ---
 
