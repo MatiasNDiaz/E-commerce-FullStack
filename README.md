@@ -1,7 +1,7 @@
 # 🛒 IFor Importados - E-Commerce de Tecnología
 
 > Proyecto full stack de un **E-Commerce de productos tecnológicos**.  
-> Incluye registro y login de usuarios, landing page, catálogo con filtros por categorías, dashboard de usuario, carrito con total dinámico, detalle de productos, página de error 404 y protección de rutas.
+> Incluye registro y login de usuarios, landing page, catálogo con filtros por categorías, dashboard de usuario, carrito con total dinámico y opcion para eliminar productos, detalle de productos, página de error 404 y protección de rutas.
 
 ---
 
@@ -15,7 +15,7 @@ Cuenta con:
 - 🏠 **Landing Page** atractiva.
 - 🛍️ **Catálogo de productos** con filtros por categorías.
 - 📊 **Dashboard** con información del usuario y sus compras.
-- 🛒 **Carrito de compras** con cálculo automático del total.
+- 🛒 **Carrito de compras** con cálculo automático del total y opcion para eliminar productos.
 - 📄 **Vista de detalle** de cada producto.
 - 🚫 **Página de error 404** y **protección de rutas** para mayor seguridad.
 
@@ -178,7 +178,7 @@ Para iniciar el front: npm run dev
 
 ---
 
-### Imagenes de cortecia de la Aplicación:
+### Imagenes de cortesia de la Aplicación:
 
 ## 🔒 vistas sin estar logueado:
 
@@ -216,14 +216,18 @@ Para iniciar el front: npm run dev
 
 ## 🎓 Sobre este proyecto
 
-Este e-commerce fue desarrollado como parte de mi formación full stack, aplicando un stack moderno y buenas prácticas de desarrollo.
-Es una solución escalable y adaptable a otros tipos de productos.
+Este e-commerce fue creado durante mi formación como desarrollador full stack, poniendo en práctica tecnologías modernas y principios sólidos de desarrollo.  
+Es una plataforma diseñada para ser escalable, flexible y fácilmente adaptable a diferentes tipos de productos y negocios.
+
 
 ---
 
 ## 🙌 ¡Gracias por visitar el repositorio!
 
-Si te gustó el proyecto o querés aportar, no dudes en dejar un ⭐ o abrir un *issue* o *pull request*. ¡Toda colaboración suma!
+Si te gustó el proyecto o querés colaborar de alguna forma, no dudes en dejar una ⭐, abrir un *issue* o enviar un *pull request*.  
+¡Tu aporte es siempre bienvenido y valorado!
+
+¡Muchas gracias por tu tiempo y por acompañarme en este aprendizaje! 🚀
 
 ---
 
