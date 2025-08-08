@@ -223,7 +223,7 @@ Si te gustó el proyecto o querés aportar, no dudes en dejar un ⭐ o abrir un 
 
 *Desarrollado con ❤️ y muchas ganas de seguir aprendiendo.*
 
----
+
 
 ### 🧑‍💻 Autor
 Matías Nahuel Diaz
