@@ -90,13 +90,16 @@ DB_PORT=5432
 # Clave secreta para JWT
 JWT_SECRET=clave_secreta_segura
 
-## ⚙️ Configuración de variables de entorno
+
 
 
 ```
 ---
 
 ```ts
+## ⚙️ Configuración de variables de entorno
+
+
 El archivo `envs.ts` carga las variables de entorno usando la librería `dotenv` y exporta las constantes para usarlas en el proyecto.
 
 // src/config/envs.ts
