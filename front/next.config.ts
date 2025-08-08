@@ -25,6 +25,11 @@ module.exports = {
                 protocol: 'https',
                 hostname: 'purepng.com',
             },
+              {
+                protocol: 'https',
+                hostname: 'www.istudiosg.com',
+            },
+
             {
                 protocol: 'https',
                 hostname: 'wallpapers.com',
