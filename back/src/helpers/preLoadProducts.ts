@@ -58,7 +58,7 @@ export const productsToPreLoad: IProduct[] = [
     description:
       "Los AirPods Pro de segunda generación ofrecen cancelación activa de ruido, modo transparencia y audio espacial para una experiencia sonora inmersiva.",
     image:
-      "https://www.macstation.com.ar/web/image/product.template/92663/image_1024/%5BMXP63BE-A%5D%20AirPods%204ta%20Gen%20USB-C?unique=8f0e170",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-4-anc-select-202409_FMT_WHH?wid=752&hei=636&fmt=jpeg&qlt=90&.v=1725502639798",
     categoryId: 5,
     stock: 10,
   },
