@@ -97,6 +97,8 @@ JWT_SECRET=clave_secreta_segura
 ---
 
 ```ts
+
+```
 ## ⚙️ Configuración de variables de entorno
 
 
@@ -146,6 +148,7 @@ export const AppDataSource = new DataSource({
   migrations: [],           // Migraciones pendientes
 });
 ```
+---
 
 ### 3. Instalar dependencias
 
