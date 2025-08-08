@@ -180,7 +180,7 @@ Para iniciar el front: npm run dev
 
 ### Imagenes de cortecia de la Aplicación:
 
-vistas sin estar logueado:
+## 🔒 vistas sin estar logueado:
 
 <img width="1901" height="967" alt="image" src="https://github.com/user-attachments/assets/ecac5725-62ba-470b-bda2-a783b4a0e8e8" />
 
@@ -196,13 +196,19 @@ vistas sin estar logueado:
 
 
 
-vistas estando logueado:
+## 🔓 vistas estando logueado:
 
-<img width="1902" height="964" alt="image" src="https://github.com/user-attachments/assets/48be3a09-e206-4cde-9d75-11f961f9f5d5" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/1475cbf2-7017-4211-b232-f88a497f1634" />
 
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/0349bb48-56a5-421a-ac08-f42a9a5f9bf6" />
+<img width="1901" height="948" alt="image" src="https://github.com/user-attachments/assets/4b5de6b4-19d3-46c3-a835-6993f20ffad8" />
 
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/db28e478-a928-470f-83c3-f58fcf93a9f4" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e59e1706-5b23-4890-879b-b9708ce48e60" />
+
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/a6b7644e-af1d-44bc-bdab-1eb60f3ba4bd" />
+
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/7aa5c9e9-7422-461e-9c30-1279cd6399c1" />
+
+<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/99e2ad81-65e0-419e-8d07-fa86142a97ab" />
 
 
 ---
