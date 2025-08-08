@@ -90,9 +90,6 @@ DB_PORT=5432
 # Clave secreta para JWT
 JWT_SECRET=clave_secreta_segura
 
-
-
-
 ```
 ---
 
