@@ -74,7 +74,7 @@ code .
 
 Para que el backend funcione correctamente, es necesario configurar un archivo `.env` en la carpeta raíz del **backend** con las variables necesarias para la conexión a la base de datos, el puerto del servidor y el secreto JWT.
 
-### 📄 Ejemplo de archivo `.env`
+## 📄 Ejemplo de archivo `.env`
 
 ```env
 # Puerto en el que correrá el servidor
@@ -93,7 +93,6 @@ JWT_SECRET=clave_secreta_segura
 ```
 ---
 
-```ts
 
 ```
 ## ⚙️ Configuración de variables de entorno
